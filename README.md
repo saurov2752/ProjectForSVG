@@ -1,4 +1,4 @@
-# ProjectForSVG
+# Project For Custom SVG
 
 ## I have developed this project using Angular, .NET Core, API. An image of sample output is attached below.
 
