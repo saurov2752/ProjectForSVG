@@ -1,6 +1,6 @@
 # Project For Custom SVG
 
-## I have developed this project using Angular, .NET Core and API. An image of sample output is attached below.
+## I have developed this project using Angular, .NET Core, API and JSON File. An image of sample output is attached below.
 
 ![alt text](https://github.com/saurov2752/ProjectForSVG/blob/main/svgSampleImg2.png?raw=true)
 
